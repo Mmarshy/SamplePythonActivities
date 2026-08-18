@@ -37,6 +37,10 @@ The distance between your coordinates is:
 7. Round the answer to 2 decimal places.
 8. Display the answer.
 
+## **LINK**
+
+[GitHub](https://github.com/Mmarshy/SamplePythonActivities/blob/main/Q1_Narra_FA1_Maglimolo_py.ipynb)
+
 ## **Author**
 
 MARCIAL REY M. MAGLIMOLO
