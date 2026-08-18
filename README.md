@@ -27,3 +27,7 @@ The program will display the distance between the two points, rounded to 2 decim
 6. Find the square root.
 7. Round the answer to 2 decimal places.
 8. Display the answer.
+
+## **Author**
+
+MARCIAL REY M. MAGLIMOLO
