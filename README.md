@@ -15,7 +15,12 @@ First, run the Python program. You will then be asked to enter the X1, X2, Y1, a
 
 ## **Output**
 
-The program will display the distance between the two points, rounded to 2 decimal places.
+What is your X1?: 5
+What is your X2?: 6
+What is your Y1?: 7
+What is your Y2?: 8
+The distance between your coordinates is:
+1.41
 
 ## **Process**
 
